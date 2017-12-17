@@ -8,4 +8,4 @@ just select the number of columns and rows of the grid and click submit to draw 
 
 
 ## copywrights
-@zezo Ninja front-end dev
+All wrights resrved  Grid Drawer 2017 . M_A
